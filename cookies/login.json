@@ -1,0 +1,134 @@
+[
+  {
+    "name": "GO_EXP_2UphVYwATSyVwsEvA3UcHg",
+    "value": "1",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1653454826,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_elements_session_4",
+    "value": "NTI2TmpMNkFad1BtejBaNFV3UXZwRlIvL0VMcm5ockRpTEN6Q0lJMjViUzh5SGI4RGVaWmVWMVkzMzYwWStVMnRsa0tkRmpxVWVIbXprY3NYVURsUlpMeXI2cXRuWGM2SnpCUzRsL2ZKeFo5Q2lIV1JDNFl2R1VKNHYxYmFwQnl0TVkvd1dSdWtTV1BjQjBvb0djZDlnPT0tLXAwN0k4czRxMkhySGtzQm9USW9iQmc9PQ%3D%3D--435f6804838d0630738dcde1ad8b4b3c67e272e1",
+    "domain": ".elements.envato.com",
+    "path": "/",
+    "expires": 1623128426.521009,
+    "size": 305,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "__cf_bm",
+    "value": "e4ab789c7b210d6bb6a8d6d90df12a74685f3077-1621918824-1800-AVAo9xGNe4CHn1sdqfTZttX1MXR28EovOS5BTXeFv7+wfdneBpeExJfa54m8OSC2NdMl9CUQ51IQwxVeYst6Xzk=",
+    "domain": ".envato.com",
+    "path": "/",
+    "expires": 1621920624.777489,
+    "size": 152,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "CookieConsent",
+    "value": "{stamp:%27-1%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cver:1%2Cutc:1621918826258%2Cregion:%27ID%27}",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1624597226,
+    "size": 146,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "original_landing_page_url",
+    "value": "https://elements.envato.com/sign-in",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1653454826,
+    "size": 60,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.1018703997.1621918826",
+    "domain": ".envato.com",
+    "path": "/",
+    "expires": 1622005226,
+    "size": 31,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1467612953.1621918826",
+    "domain": ".envato.com",
+    "path": "/",
+    "expires": 1684990826,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_gat_elements",
+    "value": "1",
+    "domain": ".envato.com",
+    "path": "/",
+    "expires": 1621918886,
+    "size": 14,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "GO_EXP_jV2IDaAwT6C6Oz3JE0xs3Q",
+    "value": "0",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1653454826,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "GO_EXP_HUldiHCcRa62jpcDB0XvlQ",
+    "value": "0",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1653454826,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "GO_EXP_pgSplit",
+    "value": "6",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1653454826,
+    "size": 15,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "GO_EXP_ltj1iBeNTBqZxQhiSR8Uog",
+    "value": "1",
+    "domain": "elements.envato.com",
+    "path": "/",
+    "expires": 1653454826,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  }
+]
